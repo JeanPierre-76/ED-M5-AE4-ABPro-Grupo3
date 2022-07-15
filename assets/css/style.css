@@ -1,0 +1,55 @@
+/* Estílo del header */
+.cabecera {
+  background-color: rgba(0, 0, 255, 0.437);
+  padding: 10px;
+  text-align: center;
+  font-size: 25px;
+  color: black;
+}
+
+#quienes_somos {
+  text-align: center;
+}
+
+#formato-formulario {
+  text-align: center;
+}
+
+/* Listas sin icono */
+.formato_lista {
+  list-style: none;
+  background-color: blue;
+  color: white;
+}
+
+/* Estílo del Article */
+.Estilo-article {
+  background-color: white;
+  float: left;
+  padding: 10px;
+  width: 100%;
+}
+
+/* Estílo centrado imagenes del Article */
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+/* Estílo del footer */
+#pie_de_pagina {
+  background-color: black;
+  padding: 10px;
+  margin: 0px;
+  text-align: center;
+  color: white;
+}
+
+.row{
+  float: left;
+  width:100%;
+}
+
+.left{
+  float:left;
+}
